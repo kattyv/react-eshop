@@ -7,7 +7,7 @@ Simple shopping app, made with React (Type Script) and Vite. App will be styled 
 - [ ] Shopping cart *(TODO)*
 
 ## Project preview
-*no link yet, sorry*
+[React eShop by KattyV](https://kattyv.github.io/react-eshop/)
 
 ## Credits:
 - [Fake Store API](https://fakestoreapi.com/)
