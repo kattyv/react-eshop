@@ -11,6 +11,7 @@ Simple shopping app, made with React (Type Script) and Vite. App will be styled 
 
 ## Credits:
 - [Fake Store API](https://fakestoreapi.com/)
+- [Photo by Max Fischer from Pexels] (https://www.pexels.com/photo/person-holding-shopping-bags-5868277/)
 
 ## Installation
 1. Download project files
